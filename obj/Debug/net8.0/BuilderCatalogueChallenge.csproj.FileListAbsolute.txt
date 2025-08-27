@@ -1,0 +1,16 @@
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /bin/Debug/net8.0/BuilderCatalogueChallenge
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /bin/Debug/net8.0/BuilderCatalogueChallenge.deps.json
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /bin/Debug/net8.0/BuilderCatalogueChallenge.runtimeconfig.json
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /bin/Debug/net8.0/BuilderCatalogueChallenge.dll
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /bin/Debug/net8.0/BuilderCatalogueChallenge.pdb
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.csproj.AssemblyReference.cache
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.AssemblyInfoInputs.cache
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.AssemblyInfo.cs
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.csproj.CoreCompileInputs.cache
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderC.F5230B3F.Up2Date
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.dll
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/refint/BuilderCatalogueChallenge.dll
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.pdb
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/BuilderCatalogueChallenge.genruntimeconfig.cache
+/Users/dkkaanni/Desktop/repos/BuilderCatalogueChallenge /obj/Debug/net8.0/ref/BuilderCatalogueChallenge.dll
